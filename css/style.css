@@ -12,7 +12,7 @@ body {
 .grid {
     display: flex;
     flex-wrap: wrap;
-    width: 350px;
+    width: 300px;
     height: 300px;
 
     margin: auto;
